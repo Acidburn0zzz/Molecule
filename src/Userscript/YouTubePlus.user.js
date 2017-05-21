@@ -14,7 +14,7 @@
 // @downloadURL     https://github.com/ParticleCore/Particle/raw/master/src/Userscript/YouTubePlus.user.js
 // @homepageURL     https://github.com/ParticleCore/Particle
 // @supportURL      https://github.com/ParticleCore/Particle/wiki
-// @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMVQJJFG4BFHW
+// @contributionURL 
 // @grant           GM_getValue
 // @grant           GM_setValue
 // @noframes
